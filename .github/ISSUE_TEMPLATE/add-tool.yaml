@@ -36,9 +36,9 @@ body:
     id: orgattributes
     attributes:
       label: Organization or Company Logo Usage
-      description: check all that applies
+      description: Check all that apply.  You can sign up as a member of SPDX on the [Linux Foundation website membership page](https://enrollment.lfx.linuxfoundation.org/?project=spdx).
       options:
-        - label: Already a member of SPDX (see https://enrollment.lfx.linuxfoundation.org/?project=spdx)
+        - label: Already a member of SPDX
         - label: Permission to use logo as an SPDX supporter (required if not a member)
   - type: input
     id: contact
